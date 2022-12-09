@@ -1,7 +1,2 @@
-*://bugjia.net/*
-*://www.cnblogs.com/Marydon20170307/*
 *://segmentfault.com/*
-*://*.whatismybrowser.com/*
-*://vircloud.net/*
-*://www.elecfans.com/*
 *://blog.csdn.net/*
